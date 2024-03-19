@@ -1,0 +1,47 @@
+Day-5
+====
+for-->What iss..? for is a control flow looping statemnt , which we can execute set of instruction . stamentes repeatedly
+
+then will for either for or while 
+
+
+for(int i=0; i<10; i++)
+  ssyo("=="+ i);
+
+
+//leagcy forloop
+
+for each(Employee obj:list){
+
+}
+
+switch:  it is also a condtional statment which mathces based on the give value inside switch expression we can call it as swicth statemnt
+
+instead of writing multple if elase statemnt we can go with swith
+
+
+if()
+
+else if()
+
+else if()
+
+
+....  else if()
+
+
+
+sitch(){
+
+case 0;
+case1 
+
+
+....
+
+case10
+
+break and default
+
+
+}

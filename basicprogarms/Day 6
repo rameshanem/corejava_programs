@@ -1,0 +1,57 @@
+   constructors
+========================
+---->Default constructor
+----->Parameterized constructor
+       * this keyword
+
+====================================
+    
+    
+/*
+heart of the class constructor
+ * Types of constructors
+ * This keyword
+ * 
+ * Why do we need the constructor?
+ * To initialize the instance variable, we need the constructor dynamically
+ *  
+ *  What is constructor?
+ *  Constructor is nothing but a simple specialised method 
+ *  Which is by the executed by the JVM
+ *   With object constructor is never call
+ *  Why?
+ * The name should be same in class name
+ * Syntax: -
+ *   Class A {
+ *   A () {
+ *   System.out.println();
+ *   }
+ *   }  
+ *   
+ * How to implement?
+ *To implement your constructor concept, we need same class 
+ *
+ *Where r u going to be implemented?
+ *In said the class
+ 
+ what is this keyword?
+  this is a one of the keywords among 64+ key words in java
+  so, u r using this it represents current object
+  this variable belongs to this class/object
+  
+ why do need this keyword?
+  interparent the current object 
+  
+  why it represents the current object?
+  to call the instance variable 
+  
+  short cut key in STS constructor/setters/getters?
+   @constructor
+   @setter
+   @getter
+ 
+  
+  
+  
+   
+*/

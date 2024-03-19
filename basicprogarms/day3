@@ -1,0 +1,61 @@
+Basic Program
+=============
+1)varables
+   types of avrables
+2)Data types
+  types of data types
+3)Operators
+   types of operators
+4)declaration
+5)Intilization
+
+============***==============
+6)keywords and identifiers
+
+7)statments
+   condtional statments and control staments
+
+ 8)Bloacks
+    types of the blocks
+    
+    
+    
+ Varable:
+ =======
+ To declare varble what we need...?   datat type
+ 
+ 
+insatance varables  
+local varables 
+static varbles
+
+
+types==> primitive and non primitive datta types
+
+int               Non primitive==>String[]. Sttring. System,.....
+float,
+double,
+long,
+short,byte,
+char,String
+
+
+using data type and varble I can declare and intlize but I cant do any operations.
+To do operation you need operator
+
+
+operator--> 
+
+types of operators
+Arithematic operations  ==>+, - ,* , / , %
+Assigment operations==>+=, -=, *=, /=, %=
+Relation opearors==>,.>, <=, >=
+Logical operations==>&&. |. !=
+Unary and Bitwiese operators==?
+
+
+
+
+ 
+ 
+ 
