@@ -1,0 +1,22 @@
+interface
+==========
+by using inetrfce we can achive fully abstartion concept
+inside interface we dont ahve any implemntation methods but from 8 onwards introdcued default and sattic methods
+what...?
+inetrfce is as key word using this we can create n numebr of interfaces not the clasess
+
+inetrface by defaul all are public abastrct methods only
+we cant craete object for the interface 
+interface doesnt ahve constructor as well
+inside interface all are sattic and final varbles taht means interface not allowed insatnce bvarbles like of class
+
+one interface can exetend multipleinterfces but one interface cant be implemnts other interface
+since we can extends multiple interfces we can say it is allowing multiple inheritance concept
+implemts keyword applciable for the clasess
+we can use impe,kmnt keword from class to other interfcae
+
+Wehen ever your calss impemnts other interface then all the abstarct methods should override in the implemnttion calss
+
+calss C extedns B,A //not avlida
+inteface C extedns B,A //valid 
+

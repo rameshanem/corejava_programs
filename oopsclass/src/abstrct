@@ -1,0 +1,25 @@
+why do we need abstarct class and interface
+============================================
+The abstract keyword is a non-access modifier, used for classes and methods:
+abstract is a keyword which we can apply for the methods, class , virable as well
+abstarct calss contains bth abstarct methodds and concreate or fully implemented ,ethods as well
+to wtrite abstarct classs we need abstarct key oword or modifer
+abstarct class can also contain contrcutor
+we cant create an object for the absatrct class
+by extedning abstarct class from base calss we can craete objecta nd access all the methods from abtastc class
+Constructor is allowd in abstract & Constructor we cant allowed interface
+abstarct class can have four type of avrable sattaic , non satic final non final
+
+absatrct calss can have multiple concrete methods and also multiple absatrct methods
+abstarct class AbstarctExample{
+AbstarctExample(){
+
+}
+ //fullimpe,mthtd
+ void printMethod(){
+
+
+ }
+ absatrct void printMethod();
+
+}

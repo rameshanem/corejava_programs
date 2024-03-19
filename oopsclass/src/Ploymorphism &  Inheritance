@@ -1,0 +1,45 @@
+Ploy morphism
+===========
+overridling
+
+we need to have 2 classes
+should be 
+same method anme and also parameters
+
+overloading -->u amy have 2 clasess even we can have one class we can ahcive obverloading concept
+methid name should be same, where as argumanets may be differ 
+super keyword
+
+same method performing diffrent knid of taksf or operations we can call it as polymorhoms
+
+
+Inheritance Concept
+===================
+what-??
+Code reusebilty mechanism
+extends ->
+apreantclass/su[per class
+subclass/child class
+
+4 types of inthreitance
+Single inheritance--?
+Multilevel imhritalce
+hirachilevel inhritance 
+
+
+class A
+
+class B class C
+
+
+B extends A
+C extedn A
+
+
+
+mutilple inhritace
+
+class A
+class B  ClassC extedns B,A{
+
+}
