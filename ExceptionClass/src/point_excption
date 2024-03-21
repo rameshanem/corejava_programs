@@ -1,0 +1,67 @@
+Excption Handaling
+==================
+Exception
+=========
+Unintruppted event/mistake which can stop narmal execution
+it terminate obnoramly
+
+why excetions occuring
+========================
+
+when user enters invalid input
+when we are not closing connections or any file realted operation
+system faillures
+
+catergaries of exceptions
+===========================
+Buil-in exceptions  - Userdefined excdeptions
+===================
+Checked exceptions and Uncheked exceptions
+
+Checked exceptions
+=================
+IO Exception, File realted Ecxcception
+classNotfound Exception
+Uncheked exceptions
+=================
+Index out of bounds excdptio
+Arithemetaic exception
+Nupointer exception
+
+Userdefines Exceptions
+======================
+our own messages throwing
+
+     throwable
+     
+Exceptipon     Error ex= out of memory error, sattckoverflow errod
+
+built in userdefined exception
+
+Handaling
+=======
+try cathc
+try with finally
+throws
+
+     
+  
+
+
+
+
+throw
+====
+it is keyword
+using this we can create our own excerptions
+
+why
+====
+Arithemertic ==>
+
+5000==>10000==? ==>Hello use your account have insufficent funnds in account
+
+
+
+
+
